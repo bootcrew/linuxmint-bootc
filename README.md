@@ -1,5 +1,8 @@
 # Linux Mint Bootc
 
+*This repository is archived! This idea was interesting in order to test if there could be some way to compile and use bootc with newer ostree on older debian versions.
+Now this is a part of [debian-bootc:stable](https://github.com/bootcrew/debian-bootc) instead!*
+
 Experiment to see if Bootc could work on Linux Mint. It requires a lot of workarounds, though!
 
 <img width="2191" height="1239" alt="image" src="https://github.com/user-attachments/assets/c6a7e39e-785f-461b-9805-1afba710b8f1" />
